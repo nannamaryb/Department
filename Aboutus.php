@@ -8,24 +8,24 @@
     <title>Document</title>
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-success">
+<nav class="navbar navbar-expand-lg navbar-dark bg-success">
         <div class="container-fluid">
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                <a class="nav-link active" aria-current="page" href="index.php">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="Gallery.html">Gallery</a>
+                <a class="nav-link" href="Gallery.php">Gallery</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="Department.html">Department</a>
+                <a class="nav-link" href="Department.php">Department</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="Aboutus.html">About us</a>
+                <a class="nav-link" href="Aboutus.php">About us</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact.html">Contact us</a>
+                <a class="nav-link" href="contact.php">Contact us</a>
               </li>
             </ul>
           </div>
