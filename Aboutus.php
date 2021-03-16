@@ -34,7 +34,7 @@
       <div class="container">
         <div class="row">
       <div class="col col-12 col-sm-6 col-md-5 col-lg-6">
-      <img height="200" width="500" src="https://lh3.googleusercontent.com/proxy/OT2jICwP1ApMkHHRKBEx8AufJ6bqaMr1m9I5jxJ-Cn0kaAnXqqD97BpShdchekMiVYfIS1V0J2dOFlxkSNWq95YJK_vZgPiU">
+      <img height="200" width="500" src="images\logo.jfif">
       <br>
       <br>
       <br>
